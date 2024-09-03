@@ -11,12 +11,12 @@ plugins {
 
 android {
     namespace 'com.coding.meet.todo_app'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.coding.meet.todo_app"
-        minSdk 21
-        targetSdk 33
+        minSdk 24
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
